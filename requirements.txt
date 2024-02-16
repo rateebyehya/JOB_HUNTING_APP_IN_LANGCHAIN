@@ -1,0 +1,6 @@
+langchain
+pincecone-client
+openai
+tiktone
+nest-asyncio
+sentence-transformers
